@@ -28,14 +28,14 @@ Aplikasi ini mengimplementasikan beberapa lapisan keamanan data dan kenyamanan a
 
 > **Catatan:** Masukkan GIF atau screenshot aplikasi kamu di bawah ini agar dosen bisa melihat program berjalan tanpa harus melakukan instalasi.
 
-![App Greetings](/./preview.mp4)
+![App Greetings]<video src="preview.mp4" controls width="100%">
+</video>
 
 ---
 
 ## 🔗 Tautan Penting
 
 -   **Expo Snack:** [Klik di sini untuk mencoba langsung di Browser](https://snack.expo.dev/@marchel19/pertemuan5)
--   **Repository:** [https://github.com/username-kamu/nama-repo](https://github.com/username-kamu/nama-repo)
 
 ---
 
