@@ -28,7 +28,7 @@ Aplikasi ini mengimplementasikan beberapa lapisan keamanan data dan kenyamanan a
 
 > **Catatan:** Masukkan GIF atau screenshot aplikasi kamu di bawah ini agar dosen bisa melihat program berjalan tanpa harus melakukan instalasi.
 
-![App Greetings]<video src="preview.mp4" controls width="100%">
+![App Greetings]<video src="/./preview.mp4" controls width="100%">
 </video>
 
 ---
